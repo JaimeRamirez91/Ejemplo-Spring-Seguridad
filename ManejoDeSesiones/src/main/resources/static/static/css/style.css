@@ -1,0 +1,20 @@
+.breadcrumb {
+	background: #FCFCFC !important;
+	color: #4e73df !important;
+	border-radius-bottom: 0px !important;
+	box-shadow: 1px 1px 1px 1px silver;
+}
+
+.modal-header, .modal-body {
+	color: white !important;
+}
+
+.close {
+	margin-left: -10% !important;
+}
+
+.delete-border {
+	border: 1px solid silver;
+}
+
+.form-group{margin-top:10px !important; margin-bottom:10px !important}
